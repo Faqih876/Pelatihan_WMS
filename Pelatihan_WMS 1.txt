@@ -7,3 +7,5 @@ Misal ngapain aja hari ini
 - 238b8c3753e0ed1b6d099daa0d937e989ae4bdd1, ini adalah si Hash, Hash sendiri adalah penanda unik pada sebuah commit
 - Branch adalah cabang dari commit itu sendiri, 
 - Mendetailkan apa itu push dan pull, jadi kalau kita merge ini butuh izin kepada master repository 
+- Coba jabarkan secara lebih detail lagi, apa itu GitHub 
+ * 
