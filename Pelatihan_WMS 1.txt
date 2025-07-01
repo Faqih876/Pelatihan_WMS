@@ -8,4 +8,6 @@ Misal ngapain aja hari ini
 - Branch adalah cabang dari commit itu sendiri, 
 - Mendetailkan apa itu push dan pull, jadi kalau kita merge ini butuh izin kepada master repository 
 - Coba jabarkan secara lebih detail lagi, apa itu GitHub 
- * 
+ * Nanti akan di buat Framework Java Scirptnya 
+  ^ Vue 
+  ^ React 
