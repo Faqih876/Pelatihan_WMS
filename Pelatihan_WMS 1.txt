@@ -6,3 +6,4 @@ Misal ngapain aja hari ini
 - Mengetahui cara kerja GitHub untuk proses yang dihapus apa dan ditambahkan ada 
 - 238b8c3753e0ed1b6d099daa0d937e989ae4bdd1, ini adalah si Hash, Hash sendiri adalah penanda unik pada sebuah commit
 - Branch adalah cabang dari commit itu sendiri, 
+- Mendetailkan apa itu push dan pull, jadi kalau kita merge ini butuh izin kepada master repository 
