@@ -1,0 +1,4 @@
+Misal ngapain aja hari ini
+- Belajar apa itu Git dan GitHub
+- Istilah yang dipakai dalam GitHub 
+- Source Code adalah bahasa pemrograman yang sudah ditulis atau dikerjakan okeh seorang programmer 
