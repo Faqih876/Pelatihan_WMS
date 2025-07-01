@@ -1,6 +1,6 @@
 Misal ngapain aja hari ini
 - Belajar apa itu Git dan GitHub
-- Istilah yang dipakai dalam GitHub 
 - Source Code adalah bahasa pemrograman yang sudah ditulis atau dikerjakan okeh seorang programmer 
 - Mengetahui istilah apa itu Pull dan apa itu Push di dalam GitHub 
 - Repo adalah folder yang bisa dikerjakan secara bersama 
+- Mengetahui cara kerja GitHub untuk proses yang dihapus apa dan ditambahkan ada 
