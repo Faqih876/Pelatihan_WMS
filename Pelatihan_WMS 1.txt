@@ -4,3 +4,5 @@ Misal ngapain aja hari ini
 - Mengetahui istilah apa itu Pull dan apa itu Push di dalam GitHub 
 - Repo adalah folder yang bisa dikerjakan secara bersama 
 - Mengetahui cara kerja GitHub untuk proses yang dihapus apa dan ditambahkan ada 
+- 238b8c3753e0ed1b6d099daa0d937e989ae4bdd1, ini adalah si Hash, Hash sendiri adalah penanda unik pada sebuah commit
+- Branch adalah cabang dari commit itu sendiri, 
